@@ -14,3 +14,66 @@ das nächste Mal, um mehr zu programmieren. Vielleicht werde ich noch Unreal Eng
 [] weiter programmieren
 [] recherichieren und mehr Wissen bekommen
 [] Planung für das nächste Mal
+### Reflexion
+Heute habe ich mich mehr über die Sprache selbst informiert und habe gut verstanden, wie sie aufgebaut ist. Ich habe sie mit C sharp verglichen, da der Aufbau 
+ähnlich ist und ich auch gut ableiten kann, was welches Element macht. Ich konnte nicht zu viel programmieren aber habe ein kleines Programm zusammenstellen 
+können und es funktioniert. Das war mir am wichtigsten. Man sieht am Aufbau vom Code das es sehr an c sharp ähnelt. Man muss auch als erstes die variablen op,
+x und y definieren, und dann wieder mit While, if und so weiter weitermachen. 
+Code:
+#include <iostream>
+using namespace std;
+
+int main() {
+    char op;
+    double x, y;
+
+    while (true) {
+        cout << "Welche Operation moechtest du ausfuehren? (+, -, *, /): ";
+        cin >> op;
+
+        if (op == '+' || op == '-' || op == '*' || op == '/') {
+            break;
+        }
+
+        cout << "Ungueltige Eingabe! Bitte nur +, -, * oder / eingeben." << endl;
+    }
+
+    cout << "Erste Zahl eingeben: ";
+    cin >> x;
+
+    cout << "Zweite Zahl eingeben: ";
+    cin >> y;
+
+    double result;
+
+    switch (op) {
+    case '+':
+        result = x + y;
+        break;
+
+    case '-':
+        result = x - y;
+        break;
+
+    case '*':
+        result = x * y;
+        break;
+
+    case '/':
+        if (y == 0) {
+            cout << "Fehler: Division durch 0 ist nicht erlaubt!" << endl;
+            return 0;
+        }
+        result = x / y;
+        break;
+    }
+
+    cout << "Ergebnis: " << result << endl;
+
+    return 0;
+}
+### Planung 29.05.2026
+[] Etwas richtiges programmieren vllt. schon mit Viusalisierung
+[] Schauen, ob es mit Visual Studio geht oder doch die Engine nötig ist
+[] Mehr Elemente lernen (Bsp. wie programmiert man Bewegung mit WASD?)
+[] Planung für das nächste Mal
