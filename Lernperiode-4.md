@@ -4,16 +4,16 @@ es auch mit Unreal Engine versuchen aber ich bin mir noch nicht sicher
 ### Ziel
 Mein Ziel ist es, die Sprache kennenzulernen und ein Spiel haben
 ### Planung 01.05.2026
-[] anfangen
-[] informieren und kleiner Input 
-[] vielleicht anfangen zu programmieren
+- [ ] anfangen
+- [ ] informieren und kleiner Input 
+- [ ] vielleicht anfangen zu programmieren
 ### Reflexion
 Heute habe ich das Entwicklerpaket für C++ heruntergeladen auf Visual Studio und die ersten Zeilen geschrieben. Ich werde mich aber mehr informieren und recherchieren 
 das nächste Mal, um mehr zu programmieren. Vielleicht werde ich noch Unreal Engine herunterladen, um zu schauen, wie die Engine funktioniert.
 ### 22.05.2026 
-[] weiter programmieren
-[] recherichieren und mehr Wissen bekommen
-[] Planung für das nächste Mal
+- [ ] weiter programmieren
+- [ ] recherichieren und mehr Wissen bekommen
+- [ ] Planung für das nächste Mal
 ### Reflexion
 Heute habe ich mich mehr über die Sprache selbst informiert und habe gut verstanden, wie sie aufgebaut ist. Ich habe sie mit C sharp verglichen, da der Aufbau 
 ähnlich ist und ich auch gut ableiten kann, was welches Element macht. Ich konnte nicht zu viel programmieren aber habe ein kleines Programm zusammenstellen 
@@ -73,14 +73,14 @@ int main() {
     return 0;
 }
 ### Planung 29.05.2026
-[] Etwas richtiges programmieren vllt. schon mit Viusalisierung
-[] Schauen, ob es mit Visual Studio geht oder doch die Engine nötig ist
-[] Mehr Elemente lernen (Bsp. wie programmiert man Bewegung mit WASD?)
-[] Planung für das nächste Mal
+- [ ] Etwas richtiges programmieren vllt. schon mit Viusalisierung
+- [ ] Schauen, ob es mit Visual Studio geht oder doch die Engine nötig ist
+- [ ] Mehr Elemente lernen (Bsp. wie programmiert man Bewegung mit WASD?)
+- [ ] Planung für das nächste Mal
 ### Reflexion 
 Heute habe ich an dem Modul 122 weitergearbeitet, weil wir nächste Woche eine Prüfung
 haben und ich noch etwas fertigmachen musste.
 ### Planung 
-[] Planung für das nächste Mal
-[] programmieren
-[] Unreal Engine
+- [ ] Planung für das nächste Mal
+- [ ] programmieren
+- [ ] Unreal Engine
