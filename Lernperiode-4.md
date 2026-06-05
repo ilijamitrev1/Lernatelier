@@ -17,7 +17,7 @@ Ich möchte Unreal Engine ausprobieren
 ### Planung
 Ich möchte eine neue Programmiersprache anfangen und ich habe mich für C++ entschieden. Ich will ein kleines Spiel programmieren. Vielleicht werde ich es auch mit Unreal Engine versuchen aber ich bin mir noch nicht sicher
 
-### Ziel
+### Generelle Ziele
 Mein Ziel ist es, die Sprache kennenzulernen und ein Spiel haben
 
 ### Planung 01.05.2026
