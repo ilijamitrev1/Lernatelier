@@ -1,8 +1,25 @@
+# Lern-Periode 1
+
+- Name: Ilija Mitrev
+- Zeitraum: 21.04.2026 bis 26.06.2026
+
+## Grob-Planung
+
+### Noten
+Ich besonders gut mit dem Datenbanken. Diese Module habe ich mit 6-er abgeschlossen und eines von den 3 war mit 5.5.
+
+### Veränderungen
+verschiedene Plattformen ausprobieren als nur Viusal Studio/ Visual Studio Code
+
+### Projekte / neue Technologien
+Ich möchte Unreal Engine ausprobieren
+
 ### Planung
-Ich möchte eine neue Programmiersprache anfangen und ich habe mich für C++ entschieden. Ich will ein kleines Spiel programmieren. Vielleicht werde ich 
-es auch mit Unreal Engine versuchen aber ich bin mir noch nicht sicher
+Ich möchte eine neue Programmiersprache anfangen und ich habe mich für C++ entschieden. Ich will ein kleines Spiel programmieren. Vielleicht werde ich es auch mit Unreal Engine versuchen aber ich bin mir noch nicht sicher
+
 ### Ziel
 Mein Ziel ist es, die Sprache kennenzulernen und ein Spiel haben
+
 ### Planung 01.05.2026
 - [ ] anfangen
 - [ ] informieren und kleiner Input 
