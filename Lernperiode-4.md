@@ -103,7 +103,7 @@ haben und ich noch etwas fertigmachen musste.
 - [ ] Unreal Engine
 ### Reflexion
 Heute habe ich den ganzen Tag mit der Unreal Engine verbracht und sie nicht wirklich eingerichtet. Es ist sehr kompliziert und mich noch besser informieren, um sie korrekt einzurichten
-### Planung 
+### Planung 12.06.2026
 - [ ] Unreal Engine
 - [ ] programmieren
 - [ ] Tutorials schauen
