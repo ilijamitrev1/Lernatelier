@@ -107,4 +107,9 @@ Heute habe ich den ganzen Tag mit der Unreal Engine verbracht und sie nicht wirk
 - [x] Unreal Engine
 - [x] programmieren
 - [x] Tutorials schauen
-
+### Reflexion 
+Das mit Unreal Engine wird leider nicht funktionieren ich werde nur mit Visual Studio programmieren müssen. Die Tutorials sind zu alt für die akutellen Versionen von Unreal Engine. Ich es versucht aber geht nicht. 
+### 19.06.2026
+- [ ] Programmieren nur auf VS
+- [ ] Tutorial suche nur für VS
+- [ ] Erstes Spiel in 2d und mit Fenster-Anzeige
