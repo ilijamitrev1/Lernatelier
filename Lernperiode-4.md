@@ -114,6 +114,12 @@ Heute habe ich den ganzen Tag mit der Unreal Engine verbracht und sie nicht wirk
 ### Reflexion 
 Das mit Unreal Engine wird leider nicht funktionieren ich werde nur mit Visual Studio programmieren müssen. Die Tutorials sind zu alt für die akutellen Versionen von Unreal Engine. Ich es versucht aber geht nicht. 
 ### 19.06.2026
+- [x] Programmieren nur auf VS
+- [x] Tutorial suche nur für VS
+- [x] Erstes Spiel in 2d und mit Fenster-Anzeige
+### Reflexion 
+Heute konnte ich leider nicht an mein Projekt arbeiten, da ich ein bisschen Stress habe mit den Modulen und ich an denen arbeiten musste. Ich werde jedoch nächstes Mal die Ziele von heute fertigmachen und mich mehr an mein Projekt wenden, weil ich dort schon beide Module abgegeben haben werde.
+### 26.06.2026
 - [ ] Programmieren nur auf VS
 - [ ] Tutorial suche nur für VS
 - [ ] Erstes Spiel in 2d und mit Fenster-Anzeige
