@@ -20,7 +20,11 @@ Ich möchte eine neue Programmiersprache anfangen und ich habe mich für C++ ent
 ### Generelle Ziele
 Mein Ziel ist es, die Sprache kennenzulernen und ein Spiel haben
 
-### Planung 01.05.2026
+### Planung 24.04.2026 
+- [x] Sprache herausfinden, mit der man überhaupt programmiert
+- [x] Welche Tools brauche ich?
+- [x] Wie werden Spiele programmiert? Wie sieht der Code aus? Was für Elemente gibt es?
+### Planung 08.05.2026
 - [x] anfangen
 - [x] informieren und kleiner Input 
 - [x] vielleicht anfangen zu programmieren
