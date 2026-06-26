@@ -120,6 +120,12 @@ Das mit Unreal Engine wird leider nicht funktionieren ich werde nur mit Visual S
 ### Reflexion 
 Heute konnte ich leider nicht an mein Projekt arbeiten, da ich ein bisschen Stress habe mit den Modulen und ich an denen arbeiten musste. Ich werde jedoch nächstes Mal die Ziele von heute fertigmachen und mich mehr an mein Projekt wenden, weil ich dort schon beide Module abgegeben haben werde.
 ### 26.06.2026
-- [ ] Programmieren nur auf VS
-- [ ] Tutorial suche nur für VS
-- [ ] Erstes Spiel in 2d und mit Fenster-Anzeige
+- [x] Programmieren nur auf VS
+- [x] Tutorial suche nur für VS
+- [x] Erstes Spiel in 2d und mit Fenster-Anzeige
+### Reflexion 
+Ich habe es endlich geschafft, ein Spiel zu programmieren. Die Fenster-Anzeige funktioniert und das Spiel auch. Ich habe viel Zeit verschwendet mit 
+Unreal Engine obwohl es nicht nötig war, aber es war auch ein Fehler, um daraus zu lernen. SFML funktioniert perfekt und ist viel einfacher als Unreal
+Engine. Ich habe mich darüber informiert, es eingerichtet und jetzt funktioniert es für zukünftige Projekte wird es einfacher sein, weil ich jetzt weiss, wie es funktioniert und meine Tools eingerichtet sind.
+## Lernperiode Reflexion
+In dieser Lernperiode habe ich gelernt, dass Spiele nicht so einfach sind zu programmieren, wie ich es mir gedacht habe, vor allem wenn man es mit professionellen Tools macht, und ein Anfänger ist. Ich weiss aber jetzt auch wie ich es als Anfänger schaffen kann und bin glücklich darüber. Es war ein Thema, dass mich sehr interessiert hat und jetzt habe ich Wissen darüber und bin bereit für zukünftige Projekte. Ich bin eigentlich zufrieden, ausser das ich Zeit mit Unreal Engine verschwendet habe. 
