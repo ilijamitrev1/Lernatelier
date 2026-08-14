@@ -6,16 +6,16 @@
 ## Grob-Planung
 
 ### Noten
-> Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
+Ich habe jetzt 1 Jahr mit Module gearbeitet und habe meine Stärken gefunden. Bei den Modulen mit SQL war ich sehr stark und habe sogar 2 6-er geschrieben. Aber auch sonst war ich gut bei den anderen Modulen. Ich bin sehr zufrieden mit meinem 5.5 Schnitt.
 
 ### Veränderungen
-> Was möchten Sie generell im Vergleich zur letzten Lernperiode anpassen?
+In dieser Lernperiode will ich nicht zu grosse Projekte planen, sondern klein anfangen. Es bringt mir nichts mir ein Ziel zu setzen, wo ich nicht schaffe.
 
 ### Projekte / neue Technologien
-> Was für Projekte/neue Technologien möchten Sie gerne in dieser Lernperiode lernen?
+Ich möchte c# Windows Forms ausprobieren.
 
 ### Generelle Ziele
-> Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
+Ich will verstehen, wie Apps gebaut werden und was die Grundlagen sind.
 
 ## Tagesplanungen
 
