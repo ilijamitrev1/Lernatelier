@@ -20,7 +20,6 @@ Ich will verstehen, wie Apps gebaut werden und was die Grundlagen sind.
 ## Tagesplanungen
 
 ### Planung 14.08.2026
-3 bis 5 klar messbare Arbeitspakete.
 
 - [X] Visual Studio einrichten
 - [X] Informieren wie immer, welche Sprache man benutzt usw.
@@ -31,7 +30,6 @@ Heute habe ich entschieden, dass ich eine App programmieren möchte. Ich habe zu
 Tutorial: https://www.youtube.com/watch?v=56oG0T4wqBM&list=PLGbq51T5V8ew
 
 ### Planung 21.08.2026
-3 bis 5 klar messbare Arbeitspakete.
 
 - [X] Tutorial folgen
 - [X] Programmmieren
@@ -40,7 +38,6 @@ Tutorial: https://www.youtube.com/watch?v=56oG0T4wqBM&list=PLGbq51T5V8ew
 Ich habe heute meine Desktopapplikation weiterentwickelt und bin sehr gut voran gekommen. Ich werde sie das nächste Mal noch mer ausbauen und vielleicht mit der Grafik spielen, wenn es geht. Ich werde entweder mir ein neues Tutorial aussuchen oder mit recherche neue Elemente entdecken, die ich benutzen kann. 
 
 ### Planung 28.08.2026
-3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Erstes Arbeitspaket
 - [ ] ...
@@ -49,7 +46,6 @@ Ich habe heute meine Desktopapplikation weiterentwickelt und bin sehr gut voran 
 (Heute habe ich... (50-100 Wörter))
 
 ### Planung 04.09.2026
-3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Erstes Arbeitspaket
 - [ ] ...
@@ -58,7 +54,6 @@ Ich habe heute meine Desktopapplikation weiterentwickelt und bin sehr gut voran 
 (Heute habe ich... (50-100 Wörter))
 
 ### Planung 11.09.2026
-3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Erstes Arbeitspaket
 - [ ] ...
@@ -67,7 +62,6 @@ Ich habe heute meine Desktopapplikation weiterentwickelt und bin sehr gut voran 
 (Heute habe ich... (50-100 Wörter))
 
 ### Planung 18.09.2026
-3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Erstes Arbeitspaket
 - [ ] ...
@@ -76,7 +70,6 @@ Ich habe heute meine Desktopapplikation weiterentwickelt und bin sehr gut voran 
 (Heute habe ich... (50-100 Wörter))
 
 ### Planung 25.09.2026
-3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Erstes Arbeitspaket
 - [ ] ...
