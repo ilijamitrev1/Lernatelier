@@ -39,9 +39,9 @@ Ich habe heute meine Desktopapplikation weiterentwickelt und bin sehr gut voran 
 
 ### Planung 28.08.2026
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Tutorial/Recherche
+- [ ] Programmieren
+- [ ] Planung für das nächste Mal
 
 (Heute habe ich... (50-100 Wörter))
 
