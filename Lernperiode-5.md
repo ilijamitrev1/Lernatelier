@@ -33,11 +33,11 @@ Tutorial: https://www.youtube.com/watch?v=56oG0T4wqBM&list=PLGbq51T5V8ew
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Tutorial folgen
-- [ ] Programmmieren
-- [ ] Planung für nächstes Mal
+- [X] Tutorial folgen
+- [X] Programmmieren
+- [X] Planung für nächstes Mal
 
-(Heute habe ich... (50-100 Wörter))
+Ich habe heute meine Desktopapplikation weiterentwickelt und bin sehr gut voran gekommen. Ich werde sie das nächste Mal noch mer ausbauen und vielleicht mit der Grafik spielen, wenn es geht. Ich werde entweder mir ein neues Tutorial aussuchen oder mit recherche neue Elemente entdecken, die ich benutzen kann. 
 
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
