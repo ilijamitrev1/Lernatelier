@@ -39,17 +39,17 @@ Ich habe heute meine Desktopapplikation weiterentwickelt und bin sehr gut voran 
 
 ### Planung 28.08.2026
 
-- [ ] Tutorial/Recherche
-- [ ] Programmieren
-- [ ] Planung für das nächste Mal
+- [X] Tutorial/Recherche
+- [X] Programmieren
+- [X] Planung für das nächste Mal
 
-(Heute habe ich... (50-100 Wörter))
+Mit meinem Projekt bin ich heute fertig geworden und habe somit das erste Tutorial abgeschlossen. Die App funktioniert und ich kann meine Notizen machen. Als nächstes möchte ich entweder wieder eine c# Windows Forms App oder ich fange mit WPF an. Wenn es eine andere Methode gibt, werde ich vielleicht auch diese ausprobieren. 
 
 ### Planung 04.09.2026
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Neue App entwickeln mit C# Windows Forms, WPF oder andere Methode
+- [ ] Eines von den Tutorials aussuchen (Links: https://www.youtube.com/watch?v=JSJ1JI2alJg&list=PLGbq51T5V8ew&index=3, https://www.youtube.com/watch?v=T1UeRuD8H98&list=PLGbq51T5V8ew&index=4) oder neues finden wo eine andere Methode verwendet
+- [ ] Planung für das nächste Mal schreiben 
 
 (Heute habe ich... (50-100 Wörter))
 
