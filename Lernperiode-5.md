@@ -47,17 +47,17 @@ Mit meinem Projekt bin ich heute fertig geworden und habe somit das erste Tutori
 
 ### Planung 04.09.2026
 
-- [ ] Neue App entwickeln mit C# Windows Forms, WPF oder andere Methode
-- [ ] Eines von den Tutorials aussuchen (Links: https://www.youtube.com/watch?v=JSJ1JI2alJg&list=PLGbq51T5V8ew&index=3, https://www.youtube.com/watch?v=T1UeRuD8H98&list=PLGbq51T5V8ew&index=4) oder neues finden wo eine andere Methode verwendet
-- [ ] Planung für das nächste Mal schreiben 
+- [X] Neue App entwickeln mit C# Windows Forms, WPF oder andere Methode
+- [X] Eines von den Tutorials aussuchen (Links: https://www.youtube.com/watch?v=JSJ1JI2alJg&list=PLGbq51T5V8ew&index=3, https://www.youtube.com/watch?v=T1UeRuD8H98&list=PLGbq51T5V8ew&index=4) oder neues finden wo eine andere Methode verwendet
+- [X] Planung für das nächste Mal schreiben 
 
-(Heute habe ich... (50-100 Wörter))
+Ich konnte leider nicht viel programmieren heute, das ich noch ein paar Aufträge vom Modul 320 lösen musste. Jedoch fand ich es nicht schlimm, denn ich benutze beim Projekt und Modul c#. Ich habe mich aber entschieden, dass ich WPF ausprobieren möchte statt weiter mit Windows Forms zu arbeiten. Ich habe vom Youtube Kanal "Programmieren lernen" eine Playlist gespeichert, indem sie WPF ausführlich erklären. Ich werde mir diese Videos anschauen und parallel dazu programmieren. Ich habe eine neue Projektmappe eingerichtet und werde ab nächstes Mal die ersten Zeilen programmieren. Link zu Playlist: https://www.youtube.com/playlist?list=PL_pqkvxZ6ho0zf5P3PYgrm7VbKW6CiUXH
 
 ### Planung 11.09.2026
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Erste Zeilen Code schreiben mit WPF aber das Mal bzw. Erste Elemente
+- [ ] Tutorials schauen, um Wissen aufzubauen und Inspiration suchen für Projekt
+- [ ] Planung für das nächste Mal
 
 (Heute habe ich... (50-100 Wörter))
 
