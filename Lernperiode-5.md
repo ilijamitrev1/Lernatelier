@@ -55,17 +55,17 @@ Ich konnte leider nicht viel programmieren heute, das ich noch ein paar Aufträg
 
 ### Planung 11.09.2026
 
-- [ ] Erste Zeilen Code schreiben mit WPF aber das Mal bzw. Erste Elemente
-- [ ] Tutorials schauen, um Wissen aufzubauen und Inspiration suchen für Projekt
-- [ ] Planung für das nächste Mal
+- [X] Erste Zeilen Code schreiben mit WPF aber das Mal bzw. Erste Elemente
+- [X] Tutorials schauen, um Wissen aufzubauen und Inspiration suchen für Projekt
+- [X] Planung für das nächste Mal
 
-(Heute habe ich... (50-100 Wörter))
+Heute bin ich gut voran gekommen. Ich habe mir keine Tutorials angeschaut aber bin selber auf die Idee gekommen, einen Passwort-Manager zu machen. Dann habe ich noch erfahren, dass Bindings existieren und ich werden mit denen meine App ausbauen. Ich habe jetzt genug Theorie würde ich sagen, um meine App zu machen, ohne grosse Schwierigkeiten zu haben. Ich werde auch in Zukunft die Website von Microsoft benutzen, weil ich die am hilfreichsten finde, was WPF angeht.
 
 ### Planung 18.09.2026
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Mein Passwort-Manager ausbauen mit mehrere Fenster (Login-Fenster, Passworter-Fenster) mithilfe von Bindings
+- [ ] Ich will mir auch anschauen, wie man die Applikation bisschen "lebendiger" aussehen kann mit designs usw.
+- [ ] Planung für das nächste Mal
 
 (Heute habe ich... (50-100 Wörter))
 
