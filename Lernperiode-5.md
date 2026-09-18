@@ -63,17 +63,22 @@ Heute bin ich gut voran gekommen. Ich habe mir keine Tutorials angeschaut aber b
 
 ### Planung 18.09.2026
 
-- [ ] Mein Passwort-Manager ausbauen mit mehrere Fenster (Login-Fenster, Passworter-Fenster) mithilfe von Bindings
-- [ ] Ich will mir auch anschauen, wie man die Applikation bisschen "lebendiger" aussehen kann mit designs usw.
-- [ ] Planung für das nächste Mal
+- [X] Mein Passwort-Manager ausbauen mit mehrere Fenster (Login-Fenster, Passworter-Fenster) mithilfe von Bindings
+- [X] Ich will mir auch anschauen, wie man die Applikation bisschen "lebendiger" aussehen kann mit designs usw.
+- [X] Planung für das nächste Mal
 
-(Heute habe ich... (50-100 Wörter))
+Ich habe heute die Funktionalität der App fertigbekommen mithilfe der websites von Microsoft und andere Quellen. Es war nicht das einfachste, aber machbar, weil ich eigentlich vieles wiederholen müsste. Ich bin zufrieden, wie die App jetzt funktioniert und das sie überhaupt funktioniert. Das letzte Mal möchte ich noch einen "last-touch" machen und die App schöner aussehen lassen.
+
+websites: 
+https://learn.microsoft.com/en-us/dotnet/desktop/wpf/data/
+https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/
+https://learn.microsoft.com/en-us/dotnet/desktop/wpf/advanced/commanding-overview
 
 ### Planung 25.09.2026
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Design bisschen hübscher machen mit verschiedenen Tools => ich will nicht, dass die App basic aussieht sondern auch bisschen Design hat.
+- [ ] Passwort-Manager fertig machen => mir fehlen noch die Funktionen, dass ich Passwörter speichern kann und    sie mir als Liste angezeigt werden.
+- [ ] Abschlussreflexion schreiben von dieser Lernperiode schreiben und nochmal reflektieren, ob ich alles erreicht habe, was ich mir als Ziel gesetzt habe.
 
 (Heute habe ich... (50-100 Wörter))
 
