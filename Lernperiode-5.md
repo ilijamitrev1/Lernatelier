@@ -76,11 +76,11 @@ https://learn.microsoft.com/en-us/dotnet/desktop/wpf/advanced/commanding-overvie
 
 ### Planung 25.09.2026
 
-- [ ] Design bisschen hübscher machen mit verschiedenen Tools => ich will nicht, dass die App basic aussieht sondern auch bisschen Design hat.
-- [ ] Passwort-Manager fertig machen => mir fehlen noch die Funktionen, dass ich Passwörter speichern kann und    sie mir als Liste angezeigt werden.
-- [ ] Abschlussreflexion schreiben von dieser Lernperiode schreiben und nochmal reflektieren, ob ich alles erreicht habe, was ich mir als Ziel gesetzt habe.
+- [X] Design bisschen hübscher machen mit verschiedenen Tools => ich will nicht, dass die App basic aussieht sondern auch bisschen Design hat.
+- [X] Passwort-Manager fertig machen => mir fehlen noch die Funktionen, dass ich Passwörter speichern kann und    sie mir als Liste angezeigt werden.
+- [X] Abschlussreflexion schreiben von dieser Lernperiode schreiben und nochmal reflektieren, ob ich alles erreicht habe, was ich mir als Ziel gesetzt habe.
 
-(Heute habe ich... (50-100 Wörter))
+Ich habe heute meinen Passwort-Manager fertig bekommen und bin sehr zufrieden mit dem Ergebnis. Zudem sieht sie jetzt ein bisschen besser aus als letzte Woche. Ich habe ein paar Grundsachen wir Farben, buttons usw. verändert. Nichts grosses aber einfach eine Stufe über basic. Meine Bindings funktionieren und ich werde vom einen zum anderen Fenster geleitet.
 
 ## Lernperiode Reflexion
-(In dieser Lernperiode habe ich... (100-150 Wörter))
+Ich bin sehr zufrieden mit dieser Lernperiode. Ich habe mein Ziel erreicht und bin sogar darüber hinsaus gegangen. Der Plan war eigentlich, dass ich nur c# Forms ausprobiere, jedoch habe ich während dem arbeiten gemerkt, das mir das einfach fiel und habe deswegen auch WPF hinzugefügt. WPF war dann eher das Niveau, wo mich bisschen herausgefordert hat und ich bisschen mehr Mühe hatte. Die Grundlagen kenne ich jetzt und weiss, wie so eine App aufgebaut wird und das war auch mein Ziel. Das wird sicher nicht die letzte Lernperiode, in der ich eine App baue. Dieses Art von Programmieren macht mir am meisten Spass und ich werde mich sicher damit mehr beschäftigen in einer anderen Lernperiode. Als nächstes will ich aber etwas anderes ausprobieren und das wird sicher Java, da ich beim Gespräch mit Ihnen besprochen habe, dass Java und C# sehr wichtige Sprachen sind.
