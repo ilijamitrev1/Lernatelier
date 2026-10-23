@@ -25,19 +25,19 @@ Mein Ziel ist es die Sprache besser zu kennen und mein Grundwissen aufzubauen un
 
 ### Planung 23.10.2026
 
-- [ ] Die Grundelemente von Java kennenlernen. Damit ich meine ich wie zum Beispiel Console.WriteLine bei C# also einfach die absoluten basics.
-- [ ] Projektideen sammeln und eine grosse Recherche. Ich möchte etwas finden, das mir Spass macht wie bei der letzten Periode und nicht einfach etwas, wo mich nicht wirklich interessiert
-- [ ] Ich möchte die Theorie in Praxis umsetzen. Ich will schon heute mal selber die Basics ausprobieren und ein Gefühl für die Sprache zu bekommen und nicht nur recherchieren. Ich finde es eigentlich gut, wenn ich selber schreiebn kann, weil ich dann auch beseres Gefühl habe.
+- [x] Die Grundelemente von Java kennenlernen. Damit ich meine ich wie zum Beispiel Console.WriteLine bei C# also einfach die absoluten basics.
+- [x] Projektideen sammeln und eine grosse Recherche. Ich möchte etwas finden, das mir Spass macht wie bei der letzten Periode und nicht einfach etwas, wo mich nicht wirklich interessiert
+- [x] Ich möchte die Theorie in Praxis umsetzen. Ich will schon heute mal selber die Basics ausprobieren und ein Gefühl für die Sprache zu bekommen und nicht nur recherchieren. Ich finde es eigentlich gut, wenn ich selber schreiebn kann, weil ich dann auch beseres Gefühl habe.
 
 #### Tagesreflexion
 
-...Ihr Text...
+Ich habe mich heute für ein Projekt entschieden und konnte es umsetzen. Ich habe recherchiert und weiss jetzt, wie ich die nötigen Informationen bekommen kann und zwar mit Java nur oder über Umwege mit PowerShell. Ich weiss auch, wie ich die Datei strukturieren muss, damit es funktioniert. Das nächste Mal muss ich aber mehr Interaktion vom Programm mit dem Nutzer mache. Es wird erklärt wo man was eingeben muss und was welcher Begriff zurückgubt.
 
 ### Planung 30.10.2026
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Datei strukturieren. Zuerst die einzelnen Befehle definieren und dann eine If-Schleife mit den nötigen Ausgaben.
+- [ ] Mir Gedanken machen, was ich dem Nutzer ermöglichen möchte. Welche Befehle möchte ich habe und welche nicht. Welche mache ich nur mit Java und welche mit Umwege
+- [ ] Planung für das nächst Mal, je nachdem wie weit ich komme
 
 #### Tagesreflexion
 
