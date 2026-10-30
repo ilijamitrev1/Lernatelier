@@ -35,19 +35,19 @@ Ich habe mich heute für ein Projekt entschieden und konnte es umsetzen. Ich hab
 
 ### Planung 30.10.2026
 
-- [ ] Datei strukturieren. Zuerst die einzelnen Befehle definieren und dann eine If-Schleife mit den nötigen Ausgaben.
-- [ ] Mir Gedanken machen, was ich dem Nutzer ermöglichen möchte. Welche Befehle möchte ich habe und welche nicht. Welche mache ich nur mit Java und welche mit Umwege
-- [ ] Planung für das nächst Mal, je nachdem wie weit ich komme
+- [x] Datei strukturieren. Zuerst die einzelnen Befehle definieren und dann eine If-Schleife mit den nötigen Ausgaben.
+- [x] Mir Gedanken machen, was ich dem Nutzer ermöglichen möchte. Welche Befehle möchte ich habe und welche nicht. Welche mache ich nur mit Java und welche mit Umwege
+- [x] Planung für das nächst Mal, je nachdem wie weit ich komme
 
 #### Tagesreflexion
 
-...Ihr Text...
+Heute habe ich eine Struktur gefunden, mit der ich arbeiten werde. Ich weiss jetzt, wie ich mein Projekt machen kann, dass es gut ist und nicht überflüssig. Ich verzichte auf lange If-Schleife und arbeite mit Hashmap. Ich habe viel Zeit bei der Einrichtugn verloren, weil ich Sachen herunterlade musste und einrichten in Visual Studio Code. Es war also okey aber ich halte es für wichtig, das jetzt wenigstens Die Struktur sitzt und ich sie ausbauen kann.
 
 ### Planung 06.11.2026
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Befehle, die ich will, definieren und einrichten, damit man sie benutzen kann
+- [ ] Programm immuner gegen Fehler und Abstürze machen, weil es stand jetzt nicht gut funktioniert und ich bin nicht zufrieden
+- [ ] Die Planung für das nächste Mal. Auch hier muss ich schauen, wie weit ich komme, weil ich heute gemerkt habe, das ich bei diesem Projekt relativ schlecht Sachen vorhersagen kann
 
 #### Tagesreflexion
 <!--
