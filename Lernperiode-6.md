@@ -45,39 +45,21 @@ Heute habe ich eine Struktur gefunden, mit der ich arbeiten werde. Ich weiss jet
 
 ### Planung 06.11.2026
 
-- [ ] Befehle, die ich will, definieren und einrichten, damit man sie benutzen kann
-- [ ] Programm immuner gegen Fehler und Abstürze machen, weil es stand jetzt nicht gut funktioniert und ich bin nicht zufrieden
-- [ ] Die Planung für das nächste Mal. Auch hier muss ich schauen, wie weit ich komme, weil ich heute gemerkt habe, das ich bei diesem Projekt relativ schlecht Sachen vorhersagen kann
+- [x] Befehle, die ich will, definieren und einrichten, damit man sie benutzen kann
+- [x] Programm immuner gegen Fehler und Abstürze machen, weil es stand jetzt nicht gut funktioniert und ich bin nicht zufrieden
+- [x] Die Planung für das nächste Mal. Auch hier muss ich schauen, wie weit ich komme, weil ich heute gemerkt habe, das ich bei diesem Projekt relativ schlecht Sachen vorhersagen kann
 
 #### Tagesreflexion
-<!--
-Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
-und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
-Nicht wiederholen, was die Checkboxen schon aussagen.
-Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
--->
 
-...Ihr Text...
-
-
-<!--
-Fügen Sie hier die weiteren Tage der Lernperiode ein.
--->
+Ich habe jetzt schon eien Menge an Befehlen, die ich definiert habe und auch getestet. Sie funktionieren alle und 
+ich kann sie ausführen. Mein nächster Schritt wäre, diese Immunheit noch ein bisschen besser machen. Ich habe schon ein paar Ideen, wie ich das genau umsetzen, aber ich möchte es immuner machen. Was ich auch noch möchte ist, dass man Befehle selber eingeben kann und speichern, damit man nicht nur auf meine angewiesen ist.
 
 ### Planung 20.11.2026
-<!--
-Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
-Umfang: ca. 30 - 60 Minuten je Arbeitspaket
-Markieren Sie beendete Arbeitspakete mit einem x.
 
-Beispiele:
-- [ ] noch nicht erledigte Aufgabe
-- [x] erledigte Aufgabe
--->
-
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Mein Code immun machen gegen Fehler und Abstürze also meistens die Antwort und dann später Powershell 
+Ausgaben, die nicht funktioniert haben
+- [ ] Selber Befehle definieren können
+- [ ] Planung für das nächste Mal
 
 
 #### Tagesreflexion
