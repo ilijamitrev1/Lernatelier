@@ -56,42 +56,21 @@ ich kann sie ausführen. Mein nächster Schritt wäre, diese Immunheit noch ein 
 
 ### Planung 20.11.2026
 
-- [ ] Mein Code immun machen gegen Fehler und Abstürze also meistens die Antwort und dann später Powershell 
+- [x] Mein Code immun machen gegen Fehler und Abstürze also meistens die Antwort und dann später Powershell 
 Ausgaben, die nicht funktioniert haben
-- [ ] Selber Befehle definieren können
-- [ ] Planung für das nächste Mal
+- [x] Selber Befehle definieren können
+- [x] Planung für das nächste Mal
 
 
 #### Tagesreflexion
-<!--
-Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
-und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
-Nicht wiederholen, was die Checkboxen schon aussagen.
-Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
--->
 
-...Ihr Text...
-
-
-<!--
-Fügen Sie hier die weiteren Tage der Lernperiode ein.
--->
+Ich habe meine zwei grosse Ziele für heute erreicht und bin mega froh dafür. Klar ist es nur der Basis-Code und erfüllt die Basis-Voraussetzungen, die man vom Code verlangen würde und nichts spezifisches. Damit meine ich, dass mein Projekt eigentlich beim Erstellen vom Befehl auch den Powershell-Befehl erstmal prüft, bevor er in eingibt. Das wäre aber etwas für das nächste Mal stand jetzt bin ich aber zufrieden mit allem. 
 
 ### Planung 27.11.2026
-<!--
-Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
-Umfang: ca. 30 - 60 Minuten je Arbeitspaket
-Markieren Sie beendete Arbeitspakete mit einem x.
 
-Beispiele:
-- [ ] noch nicht erledigte Aufgabe
-- [x] erledigte Aufgabe
--->
-
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-
+- [ ] Bei falschen Befehl Ausgaben machen, und dem Benutzer die Möglichekit geben, diese zu korrigieren, damit sein Befehl auch funktioniert.
+- [ ] Die befehle in einer JSON Datei speichern, damit sie auch beim nächsten Start da sind und nicht verschwinden.
+- [ ] Planung für das nächste Mal
 
 #### Tagesreflexion
 <!--
